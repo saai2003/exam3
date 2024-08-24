@@ -7,6 +7,6 @@ print("digits in reverse order:");
 while(num1>0){
 int?digit=num1%10;
 print(digit);
-num1=num1-/10;
+num1=num1~/10;
 }
 }
